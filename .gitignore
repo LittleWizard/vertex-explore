@@ -1,0 +1,15 @@
+bin
+logs/
+.settings/
+target/
+.idea
+*\.project
+*\.classpath
+*\.history
+.cache-main
+.cache-tests
+*\.externalToolBuilders
+\.ivy2
+*\.DS_Store
+\.metadata
+
